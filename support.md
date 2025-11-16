@@ -2,54 +2,94 @@
 title: Support
 ---   
 
-# App Store Connect - Support URL Requirements
+# Mga Pinoy - Support
 
-## Overview
+## Welcome to Mga Pinoy Support
 
-The **Support URL** in App Store Connect is a **mandatory field** that must direct to a live webpage containing actual contact information.
+Thank you for using **Mga Pinoy**, the directory app for Filipino-owned and operated businesses in the United States and its territories.
 
-## Purpose
+---
 
-This URL allows users to reach the developer with:
-- Questions
-- Support issues
-- Feedback
-- Feature requests
+## Need Help?
 
-## Requirements
+We're here to assist you! If you have questions, feedback, or need support with the app, please reach out to us.
 
-1. **Must be a live webpage** - The URL must be accessible and functional
-2. **Must contain actual contact information** - Users need a way to reach the developer
-3. **Cannot be under construction** - Apple requires the website to be fully accessible
-4. **Must be valid throughout app lifecycle** - Keep this URL active as long as the app is on the App Store
+### Contact Us
 
-## Visibility
+**Email:** [mgapinoydirectory@gmail.com](mailto:mgapinoydirectory@gmail.com)
 
-The Support URL is visible on the App Store **only to users who have purchased the app**.
+We typically respond within 24-48 hours.
 
-## Best Practices
+---
 
-- Use a dedicated support email address
-- Provide clear contact methods (email, contact form, etc.)
-- Keep the page simple and accessible
-- Ensure the page loads quickly and works on mobile devices
-- Update contact information if it changes
+## Frequently Asked Questions
 
-## Example Support Page Content
+### How do I find businesses near me?
 
-A basic support page should include:
-- App name
-- Developer/company name
-- Contact email address
-- Brief description of how to get support
-- Optional: FAQ section
-- Optional: Link to privacy policy and terms of service
+The app uses your location (with your permission) to help you discover Filipino businesses in your area. Browse the directory by state or category to find what you're looking for.
 
-## For Mga Pinoy App
+### How do I add my business to the directory?
 
-Current support email: `mgapinoydirectory@gmail.com`
+1. Open the app
+2. Tap the "Add" tab
+3. Fill out the business information form
+4. Submit your business for review
 
-A simple support page should be created with:
-- Contact information
-- Brief app description
-- How to submit feedback or report issues
+All submissions are reviewed before being added to the directory.
+
+### Is the app free to use?
+
+Yes! Mga Pinoy is completely free to download and use. The app is supported by non-personalized advertising.
+
+### How do I report incorrect business information?
+
+Please email us at [mgapinoydirectory@gmail.com](mailto:mgapinoydirectory@gmail.com) with:
+- The business name
+- What information is incorrect
+- The correct information (if known)
+
+We'll update the listing as soon as possible.
+
+### The app isn't working properly. What should I do?
+
+Please contact us at [mgapinoydirectory@gmail.com](mailto:mgapinoydirectory@gmail.com) with:
+- A description of the issue
+- Your device model and iOS version
+- Steps to reproduce the problem
+
+We'll investigate and help resolve the issue.
+
+---
+
+## Submit Feedback
+
+We love hearing from our users! Your feedback helps us improve Mga Pinoy and better serve the Filipino community.
+
+**Send your feedback to:** [mgapinoydirectory@gmail.com](mailto:mgapinoydirectory@gmail.com)
+
+---
+
+## Feature Requests
+
+Have an idea for a new feature? We'd love to hear it!
+
+Email your suggestions to: [mgapinoydirectory@gmail.com](mailto:mgapinoydirectory@gmail.com)
+
+---
+
+## Privacy & Legal
+
+- [Privacy Policy](privacy-policy.md)
+- [Terms of Service](terms-of-service.md)
+- [End User License Agreement](eula.md)
+
+---
+
+## About Mga Pinoy
+
+Mga Pinoy is dedicated to connecting the Filipino community with Filipino-owned and operated businesses across the United States and its territories. Our mission is to support and celebrate Filipino entrepreneurship.
+
+---
+
+**© 2025 Mga Pinoy. All rights reserved.**
+
